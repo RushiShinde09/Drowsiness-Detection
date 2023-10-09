@@ -2,9 +2,6 @@
 Worked on Python Projects
 
 
-Created Employee Management System
-
-
 Used OpenCV
 
 
